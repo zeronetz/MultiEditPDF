@@ -3,10 +3,10 @@ MultiEditPDf is a cross-platform console application designed to allow for quick
 
 ## Current features  
 -Creation of plaintext configuration files   
--Insertion of text  
+-Insertion of text    
     +Choice of fonts from system installed  
     +Choice of font size  
--Insertion of current date  
+-Insertion of current date    
     +Support for multiple date formats  
 ### Coming soon (tm)
 -Font Color choice  
