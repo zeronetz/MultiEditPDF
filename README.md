@@ -19,8 +19,7 @@ C++ compiler for target platform
 PDFWriter (automatically downloaded from git by cmake)
 
 ## Usage
-Build from source on 
-[linux]:
+Build from source
 ```bash
 git clone
 cd MultiEditPDF
@@ -31,6 +30,4 @@ cmake --build . --parallel 4
 
 ./MultiEditPDF
 ```
-[windows]: 
-cmake gui?
 
